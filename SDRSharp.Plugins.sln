@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDRSharp.AutoStartRadio", "SDRSharp.AutoStartRadio.csproj", "{E1AA63BE-0758-49AE-B072-EDC47439B87E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDRSharp.AutoStartRadio", "SDRSharp.AutoStartRadio\SDRSharp.AutoStartRadio.csproj", "{E1AA63BE-0758-49AE-B072-EDC47439B87E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

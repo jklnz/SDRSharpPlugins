@@ -1,5 +1,5 @@
 # SDRSharpPlugins
-This containers a crude plugin for SDRSharp that automatically starts the radio upon launching SDRSharp.
+This contains a crude plugin for SDRSharp that automatically starts the radio five seconds after launching SDRSharp. Mainly useful for decoding setups (e.g. to auto start after a computer shutdown).
 
 Key to add to your plugin file:
 ```
